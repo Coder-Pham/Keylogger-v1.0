@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# ABOUT THE PROJECT
+This **Keylogger v1.0 is 1 of 9 Social Engineering Toolkit** that I'm working on. In this project, I only build the core of the Keylogger, so that there is no embeded-file function as well as decryption function for the log file. 
 
-You can use the [editor on GitHub](https://github.com/Coder-Pham/Keylogger-v1.0/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+However, you can try my **Keylogger with Python** which I have posted for `OFFENSIVE SECURITY (KALI LINUX)`. But I still recommend you to use this version because of its processing speed. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+But do not worry, this **Keylogger** will have the Send Mail function which send you both the encrypted log file and the content of decrypted log file (but it's quiet hard to read, you will need a lot of patience).
 
-### Markdown
+In every `header & main.cpp`, I have commended quiet a few, so you can understand it easily. But in case you don't understand what part of it, please feel free to contact me through:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[GMAIL](nhan.phamcoder@hcmut.edu.vn)
+OR
+[FACEBOOK](https://www.facebook.com/phamtrong.nhan.14)
 
-```markdown
-Syntax highlighted code block
+If you have any suggestion for this **Keylogger**, please just raise your idea. If possible, I will try to make that.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coder-Pham/Keylogger-v1.0/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**NOTE THAT: I will upload embeded-file function & decryption function so keep following me to update the Keylogger**
+**PLEASE ONLY USE THIS FOR EDUCATION, ETHICAL HACKING & PENETRATION TESTING. I WON'T RESPONSIBLE FOR ANY ILLEGAL HACKING**
