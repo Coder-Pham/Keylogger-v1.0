@@ -23,9 +23,9 @@ namespace Mail
         5/ CLICK ON "Access for less secure apps" -> "Turn on"
         6/ SHOULD GIVE IT 10 MINUTES TO CHECK & UPDATE THE GMAIL STATUS.
     */
-    #define X_EM_TO "tendaigom@gmail.com"     //MUST BE A GMAIL
-    #define X_EM_FROM "tendaigom@gmail.com"
-    #define X_EM_PASS "my1010love"      //BE CAREFUL WITH THIS
+    #define X_EM_TO "...@gmail.com"     //MUST BE A GMAIL
+    #define X_EM_FROM "...@gmail.com"
+    #define X_EM_PASS "..."      //BE CAREFUL WITH THIS
 
 const std::string &PowerShellScript =
 "Param( \r\n   [String]$Att,\r\n   [String]$Subj,\r\n   "
